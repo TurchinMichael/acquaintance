@@ -16,6 +16,7 @@ namespace test
 
             Console.ReadLine();
         }
+        
 
         /// <summary>
         /// два числа на вход  какое большее какое меньшее
