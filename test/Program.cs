@@ -16,7 +16,7 @@ namespace test
 
             Console.ReadLine();
         }
-        
+
 
         /// <summary>
         /// два числа на вход  какое большее какое меньшее
@@ -32,7 +32,7 @@ namespace test
             {
                 return $"Enter: x = {x}; y = {y}. Max = {y} Min = {x}";
             }
-        }
+        }  //request
 
         /// <summary>
         /// на вход три числа и макс на выход
